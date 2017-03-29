@@ -2,4 +2,4 @@
 local manifest for hwY635
 for clone:
 
-git clone https://github.com/gr2007/Local_manifest -b master .repo/local_manifests
+git clone https://github.com/DemoniacTeamDevs/Local_manifest_hwY635_N -b master .repo/local_manifests
