@@ -9,6 +9,6 @@
   <project path="prebuilds/gcc/linux_x86/arm/arm-eabi-6.0" name="UBERTC/arm-eabi-6.0" remote="bitbucket" revision="master" />
   <project path="prebuilds/gcc/linux_x86/arm/arm-eabi-6.x" name="hyper-toolchains/arm-eabi-6.x" remote="bitbucket" revision="UxL" />
 
-  <project path="vendor/qcom/binaries" name="TheMuppets/proprietary_vendor_qcom_binaries" remote="github" revision="cm-14.1" />
-
+  <project path="vendor/qcom/binaries" name="DemoniacTeamDevs/proprietary_vendor_qcom_binaries" remote="github" revision="cm-14.1" />
+  <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" remote="github" revision="cm-14.1" />
 </manifest>
