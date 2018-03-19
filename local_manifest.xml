@@ -2,7 +2,6 @@
 <manifest>
   <project path="device/huawei/cherry" name="HUAWEI-Y550-Y635/android_device_huawei_cherry" remote="github" revision="cm-14.1" />
   <project path="device/huawei/msm8916-common" name="HUAWEI-Y550-Y635/android_device_huawei_msm8916-common" remote="github" revision="cm-14.1" />
-  <project path="vendor/huawei/cherry" name="HUAWEI-Y550-Y635/proprietary_vendor_huawei" remote="github" revision="cm-14.0" />
   <project path="vendor/huawei/msm8916-common" name="DemoniacTeamDevs/android_vendor_huawei_msm8916-common" remote="github" revision="cm-14.1-new" />
   <project path="kernel/huawei/msm8916" name="HUAWEI-Y550-Y635/android_kernel_huawei_msm8916" remote="github" revision="los-14.1" />
 
@@ -13,4 +12,3 @@
   <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" remote="github" revision="cm-14.1" />
 
 </manifest>
-
